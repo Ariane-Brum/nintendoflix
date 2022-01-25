@@ -30,7 +30,7 @@ Curso do Bootcamp Inter Frontend Developer da [Digital Innovation One](https://w
 </div>
 
 <p>NintendoFlix:
-  <a href="" target="_blank">Clique para visitar o projeto</a>
+  <a href="https://ariane-brum.github.io/nintendoflix/" target="_blank">Clique para visitar o projeto</a>
 </p>
 
 <h3 id="funcionalidades">✅ Funcionalidades</h3>
