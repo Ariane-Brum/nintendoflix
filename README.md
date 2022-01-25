@@ -3,7 +3,7 @@
 
 <h1 align="center">Recriando a Interface do Netflix<br>Digital Innovation One</h1>
 
-Curso do Bootcamp Inter Frontend Developer da [Digital Innovation One](https://web.dio.me/home).
+Curso do Bootcamp Inter Frontend Developer da <a href="https://web.dio.me/home" target="_blank">Digital Innovation One</a>
 
 <img src="assets/badge-curso.png" title="Badge" width="70" height="70">
 
@@ -36,7 +36,7 @@ Curso do Bootcamp Inter Frontend Developer da [Digital Innovation One](https://w
 <h3 id="funcionalidades">✅ Funcionalidades</h3>
 <hr />
 
-- [x] **Carousel**: O carousel foi criado através do plugin jQuery [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/), no site contém vários exemplos de carousel.
+- [x] **Carousel**: O carousel foi criado através do plugin jQuery <a href="https://owlcarousel2.github.io/OwlCarousel2/" target="_blank">Owl Carousel 2</a>, no site contém vários exemplos de carousel.
 - [x] **Modal**: Modal com informações do jogo selecionado.
 - [x] **Layout responsivo**
 
