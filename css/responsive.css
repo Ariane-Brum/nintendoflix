@@ -96,3 +96,14 @@
     font-size: 1.5rem;
   }
 }
+
+@media screen and (max-width: 375px) {
+  .modal-box .modal-box-image {
+    max-width: 90%;
+    transform: translate(-50%, 6%);
+  }
+
+  .modal-box .modal-box-image .img {
+    display: none;
+  }
+}
