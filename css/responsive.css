@@ -1,6 +1,8 @@
 @media screen and (min-width: 1025px) {
   .modal-box .modal-box-image {
     max-width: 89%;
+    height: 56%;
+    transform: translate(-50%, 30%);
   }
 }
 
